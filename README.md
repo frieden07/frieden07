@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frieden07&label=Profile%20views&color=0e75b6&style=flat" alt="frieden07" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Web development, Data structure and Algorithm, Database management system, Data Analysis, Object Oriented Programming**
+- 💬 Ask me about **Backend web development, Data structure and Algorithm, Database management system, Data Analysis, Object Oriented Programming**
 
 - 📫 How to reach me **tiwarishivanshu535@gmail.com**
 
